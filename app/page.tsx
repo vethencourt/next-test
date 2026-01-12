@@ -1,0 +1,7 @@
+"use client";
+
+import Tasks from "@/components/tasks/Tasks";
+
+export default function App() {
+  return <Tasks />;
+}
